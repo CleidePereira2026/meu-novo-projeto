@@ -1,8 +1,8 @@
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade 1`: Aprender usar Git 
-- `Funcionalidade 2`: Aprender usar Git hub
-- `Funcionalidade 2a`: Aprender Javscript
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: Aprender a usar Git 
+- `Funcionalidade 2`: Aprender a usar Git hub
+- `Funcionalidade 2a`: Aprender sobre Javscript
+- `Funcionalidade 3`: Ainda sendo atualizada 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
